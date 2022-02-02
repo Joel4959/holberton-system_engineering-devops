@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d ! -patj . -print | wc -l
+ls -la >> ls_cwd_content

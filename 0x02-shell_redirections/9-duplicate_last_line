@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d ! -patj . -print | wc -l
